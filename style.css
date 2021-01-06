@@ -1,6 +1,6 @@
 section{
     height: 300px; 
-    margin-bottom: 500px;
+    margin-bottom: 350px;
 }
 body{
     font-family: 'Poppins', sans-serif;
@@ -80,13 +80,13 @@ p{
 }
 .mid-right{
     position: absolute;
-    top: 55px;
+    top: 30px;
     margin-left: 35%;
     left: 16px;
 }
 #button-img{
     position: absolute;
-    top: 55px;
+    top: 30px;
     margin-right: 35%;
     right: 16px;
     float:left;
@@ -99,6 +99,7 @@ p{
     height: 250px;
     width: 30%;
     border-radius: 5%;
+    margin-bottom: 70px;
 }
 .navi h3{
     text-align: center;
@@ -122,13 +123,18 @@ p{
 }
 footer h4{
     text-align: center;
+    font-size: 40px;
+    font-weight: 700;
 
 }
 footer h5{
     text-align: center;
+    font-size: 30px;
+    font-weight: 700;
 }
 .icons{
     position: relative;
-    height: 150px;
+    height: 50px;
     margin-left: 40%;
 }
+
